@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54C750B5-8F35-4CAD-8789-18319FCC509F}|ParqueDivAPI.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C750B5-8F35-4CAD-8789-18319FCC509F}|ParqueDivAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C750B5-8F35-4CAD-8789-18319FCC509F}|ParqueDivAPI.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54C750B5-8F35-4CAD-8789-18319FCC509F}|ParqueDivAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C750B5-8F35-4CAD-8789-18319FCC509F}|ParqueDivAPI.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapi\\models\\tiquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C750B5-8F35-4CAD-8789-18319FCC509F}|ParqueDivAPI.csproj|solutionrelative:models\\tiquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C750B5-8F35-4CAD-8789-18319FCC509F}|ParqueDivAPI.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapi\\models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C750B5-8F35-4CAD-8789-18319FCC509F}|ParqueDivAPI.csproj|solutionrelative:models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C750B5-8F35-4CAD-8789-18319FCC509F}|ParqueDivAPI.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C750B5-8F35-4CAD-8789-18319FCC509F}|ParqueDivAPI.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C750B5-8F35-4CAD-8789-18319FCC509F}|ParqueDivAPI.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapi\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C750B5-8F35-4CAD-8789-18319FCC509F}|ParqueDivAPI.csproj|solutionrelative:models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T07:52:29.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:46:32.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tiquete.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivAPI\\Models\\Tiquete.cs",
+              "RelativeDocumentMoniker": "Models\\Tiquete.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivAPI\\Models\\Tiquete.cs",
+              "RelativeToolTip": "Models\\Tiquete.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:45:57.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Favorito.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivAPI\\Models\\Favorito.cs",
+              "RelativeDocumentMoniker": "Models\\Favorito.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivAPI\\Models\\Favorito.cs",
+              "RelativeToolTip": "Models\\Favorito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:45:34.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivAPI\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivAPI\\Models\\Empleado.cs",
+              "RelativeToolTip": "Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:45:04.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivAPI\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:33:59.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

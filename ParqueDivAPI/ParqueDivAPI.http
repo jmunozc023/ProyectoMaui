@@ -1,0 +1,6 @@
+@ParqueDivAPI_HostAddress = http://localhost:5124
+
+GET {{ParqueDivAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

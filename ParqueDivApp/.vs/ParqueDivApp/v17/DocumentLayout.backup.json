@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\shared\\sqlserverconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:shared\\sqlserverconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\parquedivapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:parquedivapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -15,16 +39,24 @@
       "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\models\\tiquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:models\\tiquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|c:\\users\\josep\\source\\repos\\proyectomaui\\parquedivapp\\parquedivapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{604801F3-533E-4CD6-9FD7-809DCCBC1F33}|ParqueDivApp.csproj|solutionrelative:parquedivapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +66,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 15,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T04:10:24.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:57:01.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:22:52.161Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -50,33 +121,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\AppShell.xaml.cs",
-              "RelativeToolTip": "AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SQLServerConn.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\Shared\\SQLServerConn.cs",
+              "RelativeDocumentMoniker": "Shared\\SQLServerConn.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\Shared\\SQLServerConn.cs",
+              "RelativeToolTip": "Shared\\SQLServerConn.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T01:34:28.127Z",
+              "WhenOpened": "2025-03-03T03:28:56.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
               "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-03T01:29:38.158Z",
+              "WhenOpened": "2025-03-03T03:22:48.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:46:42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Favorito.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\Models\\Favorito.cs",
+              "RelativeDocumentMoniker": "Models\\Favorito.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\Models\\Favorito.cs",
+              "RelativeToolTip": "Models\\Favorito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:34:53.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tiquete.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\Models\\Tiquete.cs",
+              "RelativeDocumentMoniker": "Models\\Tiquete.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\Models\\Tiquete.cs",
+              "RelativeToolTip": "Models\\Tiquete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:27:10.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\Models\\Empleado.cs",
+              "RelativeToolTip": "Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:24:55.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:22:45.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
@@ -89,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppShell.xaml",
@@ -102,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -115,8 +251,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ParqueDivApp",
+              "DocumentIndex": 4,
+              "Title": "ParqueDivApp.csproj",
               "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\ParqueDivApp.csproj",
               "RelativeDocumentMoniker": "ParqueDivApp.csproj",
               "ToolTip": "C:\\Users\\josep\\source\\repos\\ProyectoMaui\\ParqueDivApp\\ParqueDivApp.csproj",
