@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParqueDivAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f11f1511b0a5e91c1d3728407a948d35ca543e22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f57283fd7b860efb08c665a61dbbc553e48fdc08")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParqueDivAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParqueDivAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
